@@ -30,11 +30,13 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,linux" /><br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserMuhammadaziz&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,linux" />
 
 </div>
+
+---
+
+<div align="center">
 
 ## 📬 Contact
 
