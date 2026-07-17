@@ -1,17 +1,18 @@
-<h1 align="center">
-  Hi I'm Muhammadaziz Yunusov
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+Developer;Always+Learning+New+Technologies" />
-</p>
+# Hi, I'm Muhammadaziz Yunusov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-💻 Backend Developer (Python & Django)
+### 💻 Python Backend Developer | Django Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Django & Git
+- 🌱 Currently learning **Django** & **Git**
 - 🔥 Building real-world projects
 - 🇺🇿 From Uzbekistan
 
@@ -25,10 +26,14 @@
 
 ---
 
+## 📬 Contact
 
+<p align="left">
+  <a href="https://t.me/yunusovman_1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 
-### 📬 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yunusovman_1)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunusovmuhammadaziz365@gmail.com)
+  <a href="mailto:yunusovmuhammadaziz365@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
