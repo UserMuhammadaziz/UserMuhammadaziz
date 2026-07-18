@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammadaziz Yunusov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 💻 Python Backend Developer | Django Developer
+### 💻 Python Backend Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
