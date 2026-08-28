@@ -28,9 +28,9 @@
 
 <div align="center">
 
-## 💻 Tech Stack
-
 <img src="https://skillicons.dev/icons?i=python,django,git,github,linux" />
+
+<img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white" />
 
 </div>
 
