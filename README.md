@@ -30,7 +30,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,git,github,linux,django rest" />
+<img src="https://skillicons.dev/icons?i=python,django,git,github,linux,djangorest" />
 
 </div>
 
