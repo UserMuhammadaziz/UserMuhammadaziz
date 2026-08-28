@@ -54,4 +54,4 @@
 
 
 
-hullas shu yerdan DRF ha chiqishi kerak shuni chiqara olmayabman
+
